@@ -1,0 +1,9 @@
+body {
+background: rgb(2,0,36);
+background: linear-gradient(241deg, rgba(2,0,36,1) 0%, rgba(76,213,185,1) 45%, rgba(0,212,255,1) 79%);
+}
+
+table, th, td{
+  border: 2px solid black;
+  margin: auto;
+}
